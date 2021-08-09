@@ -1,0 +1,16 @@
+Programı çalıştırmak için $make all komutunu çalıştırmanız yeterlidir.
+
+Makefile da yer alan clean komutunu, kodu geliştirirken osx ortamında kullandığım için make all komutu içinden çıkartılmıştır.
+
+Kullanılan kütüphaneler aşağıdaki gibidir.
+
+#include "ElemanYok.hpp"
+#include "AVLTree.hpp"
+#include "AVLTree.hpp"
+#include "Hata.hpp"
+
+#include <iostream>
+#include <fstream>
+#include <cmath>
+
+
