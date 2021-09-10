@@ -1,10 +1,7 @@
 /**
  * @file DoublyLinkedList.hpp
  * @description DoublyLinkedList Implementation Header File
- * @course 1/A
- * @assignment Ödev I
- * @date 14.08.2021
- * @author u161210071 - oguzhan.ince@ogr.sakarya.edu.tr
+ * @author oguzhan.ince@protonmail.com
  */
 
 #ifndef DOUBLYLINKEDLIST_HPP
