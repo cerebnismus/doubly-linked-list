@@ -9,7 +9,7 @@
 #include "Dugum.hpp"
 #include <iostream>
 #include <fstream>
-#include <String.h>
+#include <string>
 
 using namespace std;
 Dugum *elemaniGetir(int index, DoublyLinkedList *list); //listede indexteki düğümü getirir
